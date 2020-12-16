@@ -1,4 +1,4 @@
-> инструкция по разворачиванию приложения (в docker или локально)
+> инструкция по разворачиванию приложения (локально)
 
 git clone https://github.com/VonnegutFcox/Test_Task_django
 
