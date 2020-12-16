@@ -1,4 +1,4 @@
-git clone https://github.com/VonnegutFcox/Test_Task_django/new/main
+git clone https://github.com/VonnegutFcox/Test_Task_django
 
 pip install -r requirements.txt
 
